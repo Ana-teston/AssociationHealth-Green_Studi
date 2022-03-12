@@ -8,6 +8,9 @@ h1 {
   font-family: 'Abril Fatface', cursive;
 }
 
+.navbar-light {
+  color: white;
+}
 .jumbotron {
   background-color: rgba(10, 10, 10, 0);
 }
