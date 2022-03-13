@@ -7,10 +7,10 @@ body {
 h1 {
   font-family: 'Abril Fatface', cursive;
 }
-
-.navbar-light {
-  color: white;
+h2 {
+  font-family: 'Abril Fatface', cursive;
 }
+
 .jumbotron {
   background-color: rgba(10, 10, 10, 0);
 }
@@ -31,3 +31,4 @@ h1 {
 .btn-outline-light:hover {
   background-color: rgba(255, 255, 255, 0.2);
 }
+
