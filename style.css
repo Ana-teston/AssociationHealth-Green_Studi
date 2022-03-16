@@ -32,16 +32,13 @@ h2 {
   background-color: rgba(255, 255, 255, 0.2);
 }
 
-.btn-primary {
+.btn-primary, .active {
   border-color: white;
   background-color:#254333;
 }
 
-.btn-primary:hover {
+.btn-primary:hover, :active{
   border-color: white;
   background-color:#00BBC9;
 }
 
-.a {
-  text-decoration-color: white;
-}
