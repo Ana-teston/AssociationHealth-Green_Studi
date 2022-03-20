@@ -7,8 +7,16 @@ body {
 h1 {
   font-family: 'Abril Fatface', cursive;
 }
+
 h2 {
   font-family: 'Abril Fatface', cursive;
+}
+h3 {
+  font-family: 'Abril Fatface', cursive;
+}
+
+.main-Content {
+  font-size: 1.6rem;
 }
 
 .jumbotron {
@@ -40,8 +48,4 @@ h2 {
 .btn-primary:hover{
   border-color: white;
   background-color:#00BBC9;
-}
-
-.inputwrapper {
-  margin-bottom: 3;
 }
